@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TestWebApiSend/bin/Debug/net7.0
+/TestWebApiSend/obj
